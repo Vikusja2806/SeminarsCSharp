@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Lesson\\Lesson2\\Lesson2.csproj",
-      "projectName": "Lesson2",
-      "projectPath": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Lesson\\Lesson2\\Lesson2.csproj",
+      "projectUniqueName": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Homeworks\\Homework2\\Homework2.csproj",
+      "projectName": "Homework2",
+      "projectPath": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Homeworks\\Homework2\\Homework2.csproj",
       "packagesPath": "C:\\Users\\asusss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Lesson\\Lesson2\\obj\\",
+      "outputPath": "C:\\Users\\asusss\\Desktop\\SeminarsC#\\Homeworks\\Homework2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asusss\\AppData\\Roaming\\NuGet\\NuGet.Config"
