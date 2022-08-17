@@ -1,4 +1,4 @@
-﻿
+﻿/*
 // Задача Упорядочить массив через алгоритм сортировки выбором минимального.
 
 int [] array = {1, 5, 4, 3, 2, 6, 7, 1 , 1};
@@ -31,3 +31,4 @@ void SelectionSort (int [] array)
 PrintArray(array);
 SelectionSort(array);
 PrintArray(array);
+*/
