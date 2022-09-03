@@ -244,5 +244,5 @@ int size = Convert.ToInt32(Console.ReadLine());
 
 int[,] snakeArray = CreateSnakeArray(size);
 Show2dArray(snakeArray);
-
 */
+
